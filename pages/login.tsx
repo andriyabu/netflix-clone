@@ -1,6 +1,8 @@
 function login() {
   return (
-    <div>login</div>
+    <div>
+      <h1 className="net-title">Netflix</h1>
+    </div>
   )
 }
 
